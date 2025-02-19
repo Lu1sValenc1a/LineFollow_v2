@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 
 const char* ssid = "INFINITUM57C7_2.4";
-const char* password = "4ApgSFasu4";
+const char* password = "";
 
 // Direccion del servidor PHP
 const char* serverName = "http://127.0.0.1/ejemplo/insert_data.php";
